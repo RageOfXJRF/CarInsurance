@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "299897956558",
+    "firebase_url": "https://car-insurance-2fadf.firebaseio.com",
+    "project_id": "car-insurance-2fadf",
+    "storage_bucket": "car-insurance-2fadf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:299897956558:android:b30e473ad2c20271",
+        "android_client_info": {
+          "package_name": "com.herprogramacion.carinsurance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "299897956558-60voglve352g0ii4aofji4fdjvc9ps50.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTV0h6ABinm-Z2A0hIRDJ8FT7xiIfK3JQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
